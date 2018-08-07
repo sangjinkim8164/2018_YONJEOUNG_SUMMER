@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+정수기 코딩 예제
 Created on Sun Aug  5 22:47:52 2018
 @author: KSJ
 """
